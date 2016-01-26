@@ -1,0 +1,31 @@
+Buffer size: 256 bytes, number of iterations 500000
+COUT with ENDL: 27
+COUT with NL: 3
+COUT with ENDL (NS): 27
+COUT with NL (NS): 3
+Buffer size: 524288 bytes, number of iterations 5000
+COUT with ENDL: 6498
+COUT with NL: 6541
+COUT with ENDL (NS): 6592
+COUT with NL (NS): 6390
+Buffer size: 256 bytes, number of iterations 500000
+COUT with ENDL: 27
+COUT with NL: 3
+PRINTF: 4
+COUT with ENDL (NS): 27
+COUT with NL (NS): 3
+PRINTF (NS): 4
+Buffer size: 524288 bytes, number of iterations 5000
+COUT with ENDL: 6534
+COUT with NL: 6555
+PRINTF: 9714
+COUT with ENDL (NS): 6546
+COUT with NL (NS): 6429
+PRINTF (NS): 8392
+Buffer size: 524288 bytes, number of iterations 5000
+COUT with ENDL: 6557
+COUT with NL: 6253
+PRINTF: 9884
+COUT with ENDL (NS): 6799
+COUT with NL (NS): 6327
+PRINTF (NS): 10956
